@@ -1,2 +1,0 @@
-# MFWB
-index.html
